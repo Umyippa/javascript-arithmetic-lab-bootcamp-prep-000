@@ -17,3 +17,11 @@ function divide(a, b) {
 function inc(a, b) {
   return (a + 1);
 }
+
+function dec(a, b) {
+  return (a - 1);
+}
+
+function makeInt(a, b) {
+  return ()
+}
