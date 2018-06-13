@@ -23,5 +23,5 @@ function dec(a, b) {
 }
 
 function makeInt(a, b) {
-  return parseInt(a === b);
+  return (parseInt(a) === b);
 }
